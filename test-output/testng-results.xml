@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29115" started-at="2020-08-02T18:22:26Z" finished-at="2020-08-02T18:22:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29115" started-at="2020-08-02T18:22:26Z" finished-at="2020-08-02T18:22:55Z">
+      <class name="com.wordpress.login.Login_01_ValidateLoginForm">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.wordpress.login.Login_01_ValidateLoginForm@6cc4c815]" name="beforeClass" is-config="true" duration-ms="5599" started-at="2020-08-03T01:22:26Z" finished-at="2020-08-03T01:22:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.wordpress.login.Login_01_ValidateLoginForm@6cc4c815]" name="beforeMethod" is-config="true" duration-ms="4376" started-at="2020-08-03T01:22:31Z" finished-at="2020-08-03T01:22:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Validate_01_EmptyEmail()[pri:0, instance:com.wordpress.login.Login_01_ValidateLoginForm@6cc4c815]" name="Validate_01_EmptyEmail" duration-ms="437" started-at="2020-08-03T01:22:36Z" finished-at="2020-08-03T01:22:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_01_EmptyEmail -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.wordpress.login.Login_01_ValidateLoginForm@6cc4c815]" name="beforeMethod" is-config="true" duration-ms="1909" started-at="2020-08-03T01:22:36Z" finished-at="2020-08-03T01:22:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Validate_02_InvalidEmail()[pri:0, instance:com.wordpress.login.Login_01_ValidateLoginForm@6cc4c815]" name="Validate_02_InvalidEmail" duration-ms="873" started-at="2020-08-03T01:22:38Z" finished-at="2020-08-03T01:22:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_02_InvalidEmail -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.wordpress.login.Login_01_ValidateLoginForm@6cc4c815]" name="beforeMethod" is-config="true" duration-ms="1791" started-at="2020-08-03T01:22:39Z" finished-at="2020-08-03T01:22:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Validate_03_EmailNotExist()[pri:0, instance:com.wordpress.login.Login_01_ValidateLoginForm@6cc4c815]" name="Validate_03_EmailNotExist" duration-ms="1171" started-at="2020-08-03T01:22:41Z" finished-at="2020-08-03T01:22:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_03_EmailNotExist -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.wordpress.login.Login_01_ValidateLoginForm@6cc4c815]" name="beforeMethod" is-config="true" duration-ms="1709" started-at="2020-08-03T01:22:42Z" finished-at="2020-08-03T01:22:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Validate_04_EmptyPassWord()[pri:0, instance:com.wordpress.login.Login_01_ValidateLoginForm@6cc4c815]" name="Validate_04_EmptyPassWord" duration-ms="1518" started-at="2020-08-03T01:22:43Z" finished-at="2020-08-03T01:22:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_04_EmptyPassWord -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.wordpress.login.Login_01_ValidateLoginForm@6cc4c815]" name="beforeMethod" is-config="true" duration-ms="1731" started-at="2020-08-03T01:22:45Z" finished-at="2020-08-03T01:22:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Validate_05_PasswordLessThan6Chars()[pri:0, instance:com.wordpress.login.Login_01_ValidateLoginForm@6cc4c815]" name="Validate_05_PasswordLessThan6Chars" duration-ms="1665" started-at="2020-08-03T01:22:47Z" finished-at="2020-08-03T01:22:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_05_PasswordLessThan6Chars -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.wordpress.login.Login_01_ValidateLoginForm@6cc4c815]" name="beforeMethod" is-config="true" duration-ms="2145" started-at="2020-08-03T01:22:48Z" finished-at="2020-08-03T01:22:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Validate_06_ValidPassword()[pri:0, instance:com.wordpress.login.Login_01_ValidateLoginForm@6cc4c815]" name="Validate_06_ValidPassword" duration-ms="4160" started-at="2020-08-03T01:22:51Z" finished-at="2020-08-03T01:22:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_06_ValidPassword -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.wordpress.login.Login_01_ValidateLoginForm@6cc4c815]" name="afterClass" is-config="true" duration-ms="0" started-at="2020-08-03T01:22:55Z" finished-at="2020-08-03T01:22:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.wordpress.login.Login_01_ValidateLoginForm -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
