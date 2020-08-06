@@ -42,6 +42,7 @@ public class Login_01_ValidateLoginForm {
 		Assert.assertEquals(driver.findElement(errorMessage).getText().trim(),"Please enter a username or email address.");
 		
 		
+		
 	}
 	@Test
 	public void Validate_02_InvalidEmail() {
