@@ -1,4 +1,4 @@
-package commons;
+package pageFactory.bankGuru;
 
 import java.util.List;
 import java.util.Set;
@@ -91,16 +91,16 @@ public abstract class AbstractPage {
 		return driver.findElements(byXpath(locator));
 	}
 
-	public void clickToElement(WebDriver driver, String locator) {
-		driver.findElement(byXpath(locator)).click();
+	public void clickToElement(WebDriver driver, WebElement element) {
+		element.click();
 	}
 
-	public void sendKeyToElement(WebDriver driver, String locator, String value) {
-		driver.findElement(byXpath(locator)).sendKeys(value);
+	public void sendKeyToElement(WebDriver driver, WebElement element, String value) {
+		element.sendKeys(value);
 	}
 
-	public String getElementText(WebDriver driver, String locator) {
-		return driver.findElement(byXpath(locator)).getText();
+	public String getElementText(WebDriver driver, WebElement element) {
+		return element.getText();
 	}
 
 	public void selectValueInDropdown(WebDriver driver, String locator, String value) {
@@ -164,8 +164,8 @@ public abstract class AbstractPage {
 			element.click();
 	}
 
-	public boolean isElementDisplayed(WebDriver driver, String locator) {
-		return findElementByXpath(driver, locator).isDisplayed();
+	public boolean isElementDisplayed(WebDriver driver, WebElement element) {
+		return element.isDisplayed();
 	}
 
 	public boolean isElementEnabled(WebDriver driver, String locator) {
@@ -255,9 +255,9 @@ public abstract class AbstractPage {
 		else
 			return true;
 	}
-	public void waitForElementVisible(WebDriver driver,String locator ) {
+	public void waitForElementVisible(WebDriver driver,WebElement element ) {
 		explicitWait= new WebDriverWait(driver,timeout);
-		explicitWait.until(ExpectedConditions.visibilityOfElementLocated(byXpath(locator)));
+		explicitWait.until(ExpectedConditions.visibilityOf(element));
 		
 	}
 	public void waitForElementInvisible(WebDriver driver,String locator ) {
@@ -265,9 +265,9 @@ public abstract class AbstractPage {
 		explicitWait.until(ExpectedConditions.invisibilityOfElementLocated(byXpath(locator)));
 		
 	}
-	public void waitForElementClickable(WebDriver driver,String locator ) {
+	public void waitForElementClickable(WebDriver driver,WebElement element ) {
 		explicitWait= new WebDriverWait(driver,timeout);
-		explicitWait.until(ExpectedConditions.elementToBeClickable(byXpath(locator)));
+		explicitWait.until(ExpectedConditions.elementToBeClickable(element));
 		
 	}
 
