@@ -6,7 +6,6 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
 import org.openqa.selenium.support.PageFactory;
 
-import commons.PageGeneratorManager;
 import pageFactory.bankGuru.AbstractPage;
 public class LoginPageObject extends AbstractPage {
 	WebDriver driver;

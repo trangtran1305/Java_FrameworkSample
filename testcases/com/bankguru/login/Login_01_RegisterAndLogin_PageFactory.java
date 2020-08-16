@@ -10,9 +10,9 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
-import commons.PageGeneratorManager;
 import pageFactory.bankGuru.HomePageObject;
 import pageFactory.bankGuru.LoginPageObject;
+import pageFactory.bankGuru.PageGeneratorManager;
 import pageFactory.bankGuru.RegisterPageObject;
 
 

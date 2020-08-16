@@ -29,8 +29,11 @@ public class LoginPageObject extends AbstractPage {
 		waitForElementVisible(driver,LoginPageUI.ERROR_MESSAGE );
 		return getElementText(driver, LoginPageUI.ERROR_MESSAGE);
 	}
-	public void getLoginPageUrl() {
-	
+	public void openLoginPage(String url) {
+		openUrl(driver, url);
+	}
+	public String getLoginPageUrl() {
+	return getCurrentUrl(driver);
 	}
 	
 }
