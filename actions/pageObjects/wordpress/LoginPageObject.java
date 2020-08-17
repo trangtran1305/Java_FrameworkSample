@@ -20,9 +20,10 @@ public class LoginPageObject extends AbstractPage {
 		sendKeyToElement(driver, LoginPageUI.PASSWORD_TEXTBOX, value);
 	}
 
-	public void clickToContinueOrLoginButton() {
+	public DashboardPageObject clickToContinueOrLoginButton() {
 		waitForElementVisible(driver,LoginPageUI.CONTINUE_BUTTON );
 		clickToElement(driver, LoginPageUI.CONTINUE_BUTTON);
+		return PageGeneratorManager.getDashboardPage(driver);
 	}
 
 	public String getErrorMessage() {

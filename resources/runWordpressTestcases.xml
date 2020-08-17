@@ -3,14 +3,14 @@
 	<test name="Run on Firefox">
 		<parameter name="browser" value="firefox" />
 		<classes>
-			<class name="com.wordpress.login.Login_03_Browser_Factory_Pattern" />
+			<class name="com.wordpress.login.Login_04_WebDriver_Life_Circle" />
 		</classes>
 	</test>
 	
 	<test name="Run on Chrome">
 	<parameter name="browser" value="chrome"/>
 		<classes>
-			<class name="com.wordpress.login.Login_03_Browser_Factory_Pattern" />
+			<class name="com.wordpress.login.Login_04_WebDriver_Life_Circle" />
 		</classes>
 	</test>
 </suite>

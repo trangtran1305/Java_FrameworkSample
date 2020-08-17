@@ -10,9 +10,9 @@ import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
 import commons.AbstractTest;
-import commons.PageGeneratorManager;
 import pageObjects.wordpress.DashboardPageObject;
 import pageObjects.wordpress.LoginPageObject;
+import pageObjects.wordpress.PageGeneratorManager;
 
 public class Login_02_Multiple_Browser_Parallel extends AbstractTest {
 	WebDriver driver;

@@ -13,9 +13,9 @@ import org.testng.annotations.Test;
 import browserFactory.DriverFactory;
 import browserFactory.DriverManager;
 import commons.AbstractTest;
-import commons.PageGeneratorManager;
 import pageObjects.wordpress.DashboardPageObject;
 import pageObjects.wordpress.LoginPageObject;
+import pageObjects.wordpress.PageGeneratorManager;
 
 public class Login_03_Browser_Factory_Pattern extends AbstractTest {
 	WebDriver driver;
@@ -28,7 +28,7 @@ public class Login_03_Browser_Factory_Pattern extends AbstractTest {
 	@Parameters("browser")
 	@BeforeClass
 	public void beforeClass(String Value) {
-		
+		//browser factory
 		driverManager= DriverFactory.getDriverManager(Value);
 		driver=driverManager.getDriver();
 		

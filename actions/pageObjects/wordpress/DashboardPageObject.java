@@ -13,4 +13,6 @@ public class DashboardPageObject extends AbstractPage{
 	public boolean isHeaderTextDisplay() {
 		return isElementDisplayed(driver, DashboardPageUI.HEADER_TEXT);
 	}
+	
+	
 }

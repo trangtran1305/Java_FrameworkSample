@@ -11,7 +11,14 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
+import pageObjects.wordpress.AbstractPageUI;
+import pageObjects.wordpress.MediaPageObject;
+import pageObjects.wordpress.PageGeneratorManager;
+import pageObjects.wordpress.PagesPageObject;
+import pageObjects.wordpress.PostPageObject;
+
 public abstract class AbstractPage {
+	
 	public void openUrl(WebDriver driver, String url) {
 		driver.get(url);
 	}
@@ -270,6 +277,23 @@ public abstract class AbstractPage {
 		explicitWait.until(ExpectedConditions.elementToBeClickable(byXpath(locator)));
 		
 	}
+	public PagesPageObject clickToPagesMenu(WebDriver driver) {
+		waitForElementVisible(driver,AbstractPageUI.PAGES_MENU );
+		clickToElement(driver, AbstractPageUI.PAGES_MENU);
+		return PageGeneratorManager.getPagesPage(driver);
+	}
+	public MediaPageObject clickToMediaMenu(WebDriver driver) {
+		waitForElementVisible(driver,AbstractPageUI.MEDIA_MENU );
+		clickToElement(driver, AbstractPageUI.MEDIA_MENU);
+		return PageGeneratorManager.getMediaPage(driver);
+	}
+	public PostPageObject clickToPostMenu(WebDriver driver) {
+		waitForElementVisible(driver,AbstractPageUI.POST_MENU);
+		clickToElement(driver, AbstractPageUI.POST_MENU);
+		return PageGeneratorManager.getPostPage(driver);
+		
+	}
+	
 
 	private Select select;
 	private JavascriptExecutor js;

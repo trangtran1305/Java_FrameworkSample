@@ -1,45 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite thread-count="2" name="Failed suite [Word Press]" parallel="tests">
-  <parameter name="browser" value="chrome"/>
-  <test name="Run on Firefox(failed)" parallel="tests">
-    <parameter name="browser" value="firefox"/>
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
     <classes>
-      <class name="com.wordpress.login.Login_03_Browser_Factory_Pattern">
+      <class name="com.wordpress.login.Login_04_WebDriver_Life_Circle">
         <methods>
-          <include name="beforeClass"/>
-          <include name="beforeClass"/>
-          <include name="Validate_06_ValidPassword"/>
-          <include name="Validate_04_EmptyPassWord"/>
-          <include name="Validate_02_InvalidEmail"/>
-          <include name="beforeMethod"/>
-          <include name="beforeMethod"/>
-          <include name="afterClass"/>
-          <include name="Validate_03_EmailNotExist"/>
-          <include name="Validate_01_EmptyEmail"/>
-          <include name="Validate_05_PasswordLessThan6Chars"/>
+          <include name="TC_01_Login"/>
+          <include name="TC_02_NavigateToPage"/>
         </methods>
-      </class> <!-- com.wordpress.login.Login_03_Browser_Factory_Pattern -->
+      </class> <!-- com.wordpress.login.Login_04_WebDriver_Life_Circle -->
     </classes>
-  </test> <!-- Run on Firefox(failed) -->
-  <test name="Run on Chrome(failed)" parallel="tests">
-    <parameter name="browser" value="chrome"/>
-    <classes>
-      <class name="com.wordpress.login.Login_03_Browser_Factory_Pattern">
-        <methods>
-          <include name="beforeClass"/>
-          <include name="beforeClass"/>
-          <include name="Validate_06_ValidPassword"/>
-          <include name="Validate_04_EmptyPassWord"/>
-          <include name="Validate_02_InvalidEmail"/>
-          <include name="beforeMethod"/>
-          <include name="beforeMethod"/>
-          <include name="afterClass"/>
-          <include name="Validate_03_EmailNotExist"/>
-          <include name="Validate_01_EmptyEmail"/>
-          <include name="Validate_05_PasswordLessThan6Chars"/>
-        </methods>
-      </class> <!-- com.wordpress.login.Login_03_Browser_Factory_Pattern -->
-    </classes>
-  </test> <!-- Run on Chrome(failed) -->
-</suite> <!-- Failed suite [Word Press] -->
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

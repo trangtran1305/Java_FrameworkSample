@@ -44,7 +44,6 @@ public class Login_01_RegisterAndLogin_PageFactory {
 		userID = registerPage.getUserIDText();
 		password = registerPage.getPasswordText();
 		registerPage.openLoginPage(loginPageUrl);
-		loginPage = new LoginPageObject(driver);
 	}
 
 	@Test
