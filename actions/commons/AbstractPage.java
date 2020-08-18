@@ -101,6 +101,10 @@ public abstract class AbstractPage {
 	public void clickToElement(WebDriver driver, String locator) {
 		driver.findElement(byXpath(locator)).click();
 	}
+	//Overloading->đa hình
+	public void clickToElement(WebDriver driver, String locator, String... parameters) {
+		driver.findElement(byXpath(String.format(locator,(Object[])parameters ))).click();
+	}
 
 	public void sendKeyToElement(WebDriver driver, String locator, String value) {
 		driver.findElement(byXpath(locator)).sendKeys(value);
@@ -171,6 +175,9 @@ public abstract class AbstractPage {
 			element.click();
 	}
 
+	public boolean isElementDisplayed(WebDriver driver, String locator, String... parameters) {
+		return findElementByXpath(driver, String.format(locator,(Object[])parameters)).isDisplayed();
+	}
 	public boolean isElementDisplayed(WebDriver driver, String locator) {
 		return findElementByXpath(driver, locator).isDisplayed();
 	}
@@ -267,14 +274,19 @@ public abstract class AbstractPage {
 		explicitWait.until(ExpectedConditions.visibilityOfElementLocated(byXpath(locator)));
 		
 	}
+	public void waitForElementVisible(WebDriver driver,String locator ,String... parameters) {
+		explicitWait= new WebDriverWait(driver,timeout);
+		explicitWait.until(ExpectedConditions.visibilityOfElementLocated(byXpath(String.format(locator,(Object[])parameters))));
+		
+	}
 	public void waitForElementInvisible(WebDriver driver,String locator ) {
 		explicitWait= new WebDriverWait(driver,timeout);
 		explicitWait.until(ExpectedConditions.invisibilityOfElementLocated(byXpath(locator)));
 		
 	}
-	public void waitForElementClickable(WebDriver driver,String locator ) {
+	public void waitForElementClickable(WebDriver driver,String locator, String...parameters ) {
 		explicitWait= new WebDriverWait(driver,timeout);
-		explicitWait.until(ExpectedConditions.elementToBeClickable(byXpath(locator)));
+		explicitWait.until(ExpectedConditions.elementToBeClickable(byXpath(String.format(locator,(Object[])parameters))));
 		
 	}
 	public PagesPageObject clickToPagesMenu(WebDriver driver) {
@@ -293,6 +305,22 @@ public abstract class AbstractPage {
 		return PageGeneratorManager.getPostPage(driver);
 		
 	}
+	//Dynamic Locator: ít page
+	public AbstractPage clickToDynamicMenu(WebDriver driver, String pageName) {
+		waitForElementVisible(driver,AbstractPageUI.DYNAMIC_MENU,pageName);
+		clickToElement(driver, AbstractPageUI.DYNAMIC_MENU,pageName);
+		if(pageName.equals("Media")) return PageGeneratorManager.getMediaPage(driver);
+		else if(pageName.equals("Posts")) return PageGeneratorManager.getPostPage(driver);
+		else if(pageName.equals("Pages")) return PageGeneratorManager.getPagesPage(driver);
+		else return PageGeneratorManager.getDashboardPage(driver);
+		
+	}
+	//Dynamic Locator: nhiều page
+		public void clickToMoreDynamicMenu(WebDriver driver, String pageName) {
+			waitForElementVisible(driver,AbstractPageUI.DYNAMIC_MENU,pageName);
+			clickToElement(driver, AbstractPageUI.DYNAMIC_MENU,pageName);
+
+		}
 	
 
 	private Select select;

@@ -2,39 +2,12 @@
 <testng-results skipped="0" failed="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Word Press" duration-ms="34588" started-at="2020-08-17T09:52:11Z" finished-at="2020-08-17T09:52:46Z">
+  <suite name="Word Press" duration-ms="37800" started-at="2020-08-18T23:34:42Z" finished-at="2020-08-18T23:35:19Z">
     <groups>
     </groups>
-    <test name="Run on Firefox" duration-ms="33895" started-at="2020-08-17T09:52:11Z" finished-at="2020-08-17T09:52:45Z">
-      <class name="com.wordpress.login.Login_04_WebDriver_Life_Circle">
-        <test-method status="PASS" signature="beforeClass(java.lang.String)[pri:0, instance:com.wordpress.login.Login_04_WebDriver_Life_Circle@6cc4c815]" name="beforeClass" is-config="true" duration-ms="15384" started-at="2020-08-17T16:52:11Z" finished-at="2020-08-17T16:52:27Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[firefox]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="TC_01_Login()[pri:0, instance:com.wordpress.login.Login_04_WebDriver_Life_Circle@6cc4c815]" name="TC_01_Login" duration-ms="6295" started-at="2020-08-17T16:52:27Z" finished-at="2020-08-17T16:52:33Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TC_01_Login -->
-        <test-method status="PASS" signature="TC_02_NavigateToPage()[pri:0, instance:com.wordpress.login.Login_04_WebDriver_Life_Circle@6cc4c815]" name="TC_02_NavigateToPage" duration-ms="10993" started-at="2020-08-17T16:52:33Z" finished-at="2020-08-17T16:52:44Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TC_02_NavigateToPage -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.wordpress.login.Login_04_WebDriver_Life_Circle@6cc4c815]" name="afterClass" is-config="true" duration-ms="1204" started-at="2020-08-17T16:52:44Z" finished-at="2020-08-17T16:52:45Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterClass -->
-      </class> <!-- com.wordpress.login.Login_04_WebDriver_Life_Circle -->
-    </test> <!-- Run on Firefox -->
-    <test name="Run on Chrome" duration-ms="34588" started-at="2020-08-17T09:52:11Z" finished-at="2020-08-17T09:52:46Z">
-      <class name="com.wordpress.login.Login_04_WebDriver_Life_Circle">
-        <test-method status="PASS" signature="beforeClass(java.lang.String)[pri:0, instance:com.wordpress.login.Login_04_WebDriver_Life_Circle@675d3402]" name="beforeClass" is-config="true" duration-ms="12309" started-at="2020-08-17T16:52:11Z" finished-at="2020-08-17T16:52:24Z">
+    <test name="Run on Chrome" duration-ms="37647" started-at="2020-08-18T23:34:42Z" finished-at="2020-08-18T23:35:19Z">
+      <class name="com.wordpress.login.Login_05_Dynamic_Locator">
+        <test-method status="PASS" signature="beforeClass(java.lang.String)[pri:0, instance:com.wordpress.login.Login_05_Dynamic_Locator@675d3402]" name="beforeClass" is-config="true" duration-ms="12855" started-at="2020-08-19T06:34:42Z" finished-at="2020-08-19T06:34:54Z">
           <params>
             <param index="0">
               <value>
@@ -45,19 +18,46 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="TC_01_Login()[pri:0, instance:com.wordpress.login.Login_04_WebDriver_Life_Circle@675d3402]" name="TC_01_Login" duration-ms="8995" started-at="2020-08-17T16:52:24Z" finished-at="2020-08-17T16:52:33Z">
+        <test-method status="PASS" signature="TC_01_Login()[pri:0, instance:com.wordpress.login.Login_05_Dynamic_Locator@675d3402]" name="TC_01_Login" duration-ms="10676" started-at="2020-08-19T06:34:54Z" finished-at="2020-08-19T06:35:05Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_01_Login -->
-        <test-method status="PASS" signature="TC_02_NavigateToPage()[pri:0, instance:com.wordpress.login.Login_04_WebDriver_Life_Circle@675d3402]" name="TC_02_NavigateToPage" duration-ms="12252" started-at="2020-08-17T16:52:33Z" finished-at="2020-08-17T16:52:45Z">
+        <test-method status="PASS" signature="TC_02_NavigateToPage()[pri:0, instance:com.wordpress.login.Login_05_Dynamic_Locator@675d3402]" name="TC_02_NavigateToPage" duration-ms="11974" started-at="2020-08-19T06:35:05Z" finished-at="2020-08-19T06:35:17Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_02_NavigateToPage -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.wordpress.login.Login_04_WebDriver_Life_Circle@675d3402]" name="afterClass" is-config="true" duration-ms="1008" started-at="2020-08-17T16:52:45Z" finished-at="2020-08-17T16:52:46Z">
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.wordpress.login.Login_05_Dynamic_Locator@675d3402]" name="afterClass" is-config="true" duration-ms="2124" started-at="2020-08-19T06:35:17Z" finished-at="2020-08-19T06:35:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
-      </class> <!-- com.wordpress.login.Login_04_WebDriver_Life_Circle -->
+      </class> <!-- com.wordpress.login.Login_05_Dynamic_Locator -->
     </test> <!-- Run on Chrome -->
+    <test name="Run on Firefox" duration-ms="37800" started-at="2020-08-18T23:34:42Z" finished-at="2020-08-18T23:35:19Z">
+      <class name="com.wordpress.login.Login_05_Dynamic_Locator">
+        <test-method status="PASS" signature="beforeClass(java.lang.String)[pri:0, instance:com.wordpress.login.Login_05_Dynamic_Locator@6cc4c815]" name="beforeClass" is-config="true" duration-ms="12825" started-at="2020-08-19T06:34:42Z" finished-at="2020-08-19T06:34:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="TC_01_Login()[pri:0, instance:com.wordpress.login.Login_05_Dynamic_Locator@6cc4c815]" name="TC_01_Login" duration-ms="8926" started-at="2020-08-19T06:34:54Z" finished-at="2020-08-19T06:35:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01_Login -->
+        <test-method status="PASS" signature="TC_02_NavigateToPage()[pri:0, instance:com.wordpress.login.Login_05_Dynamic_Locator@6cc4c815]" name="TC_02_NavigateToPage" duration-ms="14761" started-at="2020-08-19T06:35:03Z" finished-at="2020-08-19T06:35:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_02_NavigateToPage -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.wordpress.login.Login_05_Dynamic_Locator@6cc4c815]" name="afterClass" is-config="true" duration-ms="1264" started-at="2020-08-19T06:35:18Z" finished-at="2020-08-19T06:35:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.wordpress.login.Login_05_Dynamic_Locator -->
+    </test> <!-- Run on Firefox -->
   </suite> <!-- Word Press -->
 </testng-results>
