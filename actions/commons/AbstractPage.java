@@ -109,9 +109,15 @@ public abstract class AbstractPage {
 	public void sendKeyToElement(WebDriver driver, String locator, String value) {
 		driver.findElement(byXpath(locator)).sendKeys(value);
 	}
+		public void sendKeyToElement(WebDriver driver, String value, String locator, String...parameters) {
+			driver.findElement(byXpath(String.format(locator,(Object[])parameters))).sendKeys(value);
+	}
 
 	public String getElementText(WebDriver driver, String locator) {
 		return driver.findElement(byXpath(locator)).getText();
+	}
+	public String getElementText(WebDriver driver, String locator,String...parameters) {
+		return driver.findElement(byXpath(String.format(locator,(Object[])parameters))).getText();
 	}
 
 	public void selectValueInDropdown(WebDriver driver, String locator, String value) {
@@ -160,6 +166,10 @@ public abstract class AbstractPage {
 
 	public int countElementNumber(WebDriver driver, String locator) {
 		elements = findElementsByXpath(driver, locator);
+		return elements.size();
+	}
+	public int countElementNumber(WebDriver driver, String locator, String...parameters) {
+		elements = findElementsByXpath(driver,String.format(locator, (Object[])parameters));
 		return elements.size();
 	}
 
@@ -279,6 +289,7 @@ public abstract class AbstractPage {
 		explicitWait.until(ExpectedConditions.visibilityOfElementLocated(byXpath(String.format(locator,(Object[])parameters))));
 		
 	}
+	
 	public void waitForElementInvisible(WebDriver driver,String locator ) {
 		explicitWait= new WebDriverWait(driver,timeout);
 		explicitWait.until(ExpectedConditions.invisibilityOfElementLocated(byXpath(locator)));

@@ -31,7 +31,7 @@ public class Login_04_WebDriver_Life_Circle extends AbstractTest {
 	@BeforeClass
 	public void beforeClass(String Value) {
 		//lấy thông tin browser trong abstract test 
-		driver=getBrowserDriver(Value);
+		driver=getBrowserDriver(Value,"https://automationfc.wordpress.com/wp-admin/");
 		loginPage = PageGeneratorManager.getLoginPage(driver);
 		
 	}

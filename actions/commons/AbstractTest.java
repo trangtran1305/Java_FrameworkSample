@@ -11,7 +11,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public abstract class AbstractTest {
 	WebDriver driver;
 
-	public WebDriver getBrowserDriver(String Value) {
+	public WebDriver getBrowserDriver(String Value, String Url) {
 		if (Value.equals("firefox")) {
 			driver = new FirefoxDriver();
 		} else if (Value.equals("chrome")) {
@@ -20,7 +20,7 @@ public abstract class AbstractTest {
 			driver = new ChromeDriver();
 		}
 		driver.manage().timeouts().implicitlyWait(30,TimeUnit.SECONDS);	
-		driver.get("https://automationfc.wordpress.com/wp-admin/");
+		driver.get(Url);
 		return driver;
 	}
 	

@@ -1,63 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="4" passed="4">
+<testng-results skipped="0" failed="0" total="5" passed="5">
   <reporter-output>
   </reporter-output>
-  <suite name="Word Press" duration-ms="37800" started-at="2020-08-18T23:34:42Z" finished-at="2020-08-18T23:35:19Z">
+  <suite name="Jquery" duration-ms="181938" started-at="2020-08-20T15:00:15Z" finished-at="2020-08-20T15:03:17Z">
     <groups>
     </groups>
-    <test name="Run on Chrome" duration-ms="37647" started-at="2020-08-18T23:34:42Z" finished-at="2020-08-18T23:35:19Z">
-      <class name="com.wordpress.login.Login_05_Dynamic_Locator">
-        <test-method status="PASS" signature="beforeClass(java.lang.String)[pri:0, instance:com.wordpress.login.Login_05_Dynamic_Locator@675d3402]" name="beforeClass" is-config="true" duration-ms="12855" started-at="2020-08-19T06:34:42Z" finished-at="2020-08-19T06:34:54Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="TC_01_Login()[pri:0, instance:com.wordpress.login.Login_05_Dynamic_Locator@675d3402]" name="TC_01_Login" duration-ms="10676" started-at="2020-08-19T06:34:54Z" finished-at="2020-08-19T06:35:05Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TC_01_Login -->
-        <test-method status="PASS" signature="TC_02_NavigateToPage()[pri:0, instance:com.wordpress.login.Login_05_Dynamic_Locator@675d3402]" name="TC_02_NavigateToPage" duration-ms="11974" started-at="2020-08-19T06:35:05Z" finished-at="2020-08-19T06:35:17Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TC_02_NavigateToPage -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.wordpress.login.Login_05_Dynamic_Locator@675d3402]" name="afterClass" is-config="true" duration-ms="2124" started-at="2020-08-19T06:35:17Z" finished-at="2020-08-19T06:35:19Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterClass -->
-      </class> <!-- com.wordpress.login.Login_05_Dynamic_Locator -->
-    </test> <!-- Run on Chrome -->
-    <test name="Run on Firefox" duration-ms="37800" started-at="2020-08-18T23:34:42Z" finished-at="2020-08-18T23:35:19Z">
-      <class name="com.wordpress.login.Login_05_Dynamic_Locator">
-        <test-method status="PASS" signature="beforeClass(java.lang.String)[pri:0, instance:com.wordpress.login.Login_05_Dynamic_Locator@6cc4c815]" name="beforeClass" is-config="true" duration-ms="12825" started-at="2020-08-19T06:34:42Z" finished-at="2020-08-19T06:34:54Z">
+    <test name="Run on Firefox" duration-ms="181938" started-at="2020-08-20T15:00:15Z" finished-at="2020-08-20T15:03:17Z">
+      <class name="com.jquery.datatable.JQuery_01_DataTable">
+        <test-method status="PASS" signature="beforeClass(java.lang.String, java.lang.String)[pri:0, instance:com.jquery.datatable.JQuery_01_DataTable@6cc4c815]" name="beforeClass" is-config="true" duration-ms="95439" started-at="2020-08-20T22:00:15Z" finished-at="2020-08-20T22:01:51Z">
           <params>
             <param index="0">
               <value>
                 <![CDATA[firefox]]>
               </value>
             </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.jqueryscript.net/demo/CRUD-Data-Grid-Plugin-jQuery-Quickgrid/]]>
+              </value>
+            </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="TC_01_Login()[pri:0, instance:com.wordpress.login.Login_05_Dynamic_Locator@6cc4c815]" name="TC_01_Login" duration-ms="8926" started-at="2020-08-19T06:34:54Z" finished-at="2020-08-19T06:35:03Z">
+        <test-method status="PASS" signature="TC_01_InputToColumnByName()[pri:0, instance:com.jquery.datatable.JQuery_01_DataTable@6cc4c815]" name="TC_01_InputToColumnByName" duration-ms="4807" started-at="2020-08-20T22:01:51Z" finished-at="2020-08-20T22:01:55Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- TC_01_Login -->
-        <test-method status="PASS" signature="TC_02_NavigateToPage()[pri:0, instance:com.wordpress.login.Login_05_Dynamic_Locator@6cc4c815]" name="TC_02_NavigateToPage" duration-ms="14761" started-at="2020-08-19T06:35:03Z" finished-at="2020-08-19T06:35:18Z">
+        </test-method> <!-- TC_01_InputToColumnByName -->
+        <test-method status="PASS" signature="TC_02_PaginationByPageNumber()[pri:0, instance:com.jquery.datatable.JQuery_01_DataTable@6cc4c815]" name="TC_02_PaginationByPageNumber" duration-ms="209" started-at="2020-08-20T22:01:55Z" finished-at="2020-08-20T22:01:56Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- TC_02_NavigateToPage -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.wordpress.login.Login_05_Dynamic_Locator@6cc4c815]" name="afterClass" is-config="true" duration-ms="1264" started-at="2020-08-19T06:35:18Z" finished-at="2020-08-19T06:35:19Z">
+        </test-method> <!-- TC_02_PaginationByPageNumber -->
+        <test-method status="PASS" signature="TC_03_ClickDeleteOrEditByCountryName()[pri:0, instance:com.jquery.datatable.JQuery_01_DataTable@6cc4c815]" name="TC_03_ClickDeleteOrEditByCountryName" duration-ms="42478" started-at="2020-08-20T22:01:56Z" finished-at="2020-08-20T22:02:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_03_ClickDeleteOrEditByCountryName -->
+        <test-method status="PASS" signature="TC_04_GetTotalByCountryName()[pri:0, instance:com.jquery.datatable.JQuery_01_DataTable@6cc4c815]" name="TC_04_GetTotalByCountryName" duration-ms="34903" started-at="2020-08-20T22:02:38Z" finished-at="2020-08-20T22:03:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_04_GetTotalByCountryName -->
+        <test-method status="PASS" signature="TC_05_SendkeyToDynamicTextboxByRowNumber()[pri:0, instance:com.jquery.datatable.JQuery_01_DataTable@6cc4c815]" name="TC_05_SendkeyToDynamicTextboxByRowNumber" duration-ms="4069" started-at="2020-08-20T22:03:13Z" finished-at="2020-08-20T22:03:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_05_SendkeyToDynamicTextboxByRowNumber -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.jquery.datatable.JQuery_01_DataTable@6cc4c815]" name="afterClass" is-config="true" duration-ms="0" started-at="2020-08-20T22:03:17Z" finished-at="2020-08-20T22:03:17Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
-      </class> <!-- com.wordpress.login.Login_05_Dynamic_Locator -->
+      </class> <!-- com.jquery.datatable.JQuery_01_DataTable -->
     </test> <!-- Run on Firefox -->
-  </suite> <!-- Word Press -->
+  </suite> <!-- Jquery -->
 </testng-results>

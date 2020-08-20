@@ -25,7 +25,7 @@ public class Login_02_Multiple_Browser_Parallel extends AbstractTest {
 	@BeforeClass
 	public void beforeClass(String Value) {
 		//lấy thông tin browser trong abstract test 
-		driver=getBrowserDriver(Value);
+		driver=getBrowserDriver(Value,"https://automationfc.wordpress.com/wp-admin/");
 		loginPage = PageGeneratorManager.getLoginPage(driver);
 		loginPageUrl = loginPage.getLoginPageUrl();
 	}

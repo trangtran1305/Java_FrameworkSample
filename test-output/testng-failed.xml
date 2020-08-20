@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
-  <test name="Default test(failed)">
+<suite name="Failed suite [Jquery]">
+  <parameter name="browser" value="firefox"/>
+  <parameter name="url" value="https://www.jqueryscript.net/demo/CRUD-Data-Grid-Plugin-jQuery-Quickgrid/"/>
+  <test name="Run on Firefox(failed)">
+    <parameter name="browser" value="firefox"/>
+    <parameter name="url" value="https://www.jqueryscript.net/demo/CRUD-Data-Grid-Plugin-jQuery-Quickgrid/"/>
     <classes>
-      <class name="com.wordpress.login.Login_05_Dynamic_Locator">
+      <class name="com.jquery.datatable.JQuery_01_DataTable">
         <methods>
-          <include name="TC_02_NavigateToPage"/>
-          <include name="TC_01_Login"/>
+          <include name="TC_03_ClickDeleteOrEditByCountryName"/>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+          <include name="TC_04_GetTotalByCountryName"/>
+          <include name="TC_05_SendkeyToDynamicTextboxByRowNumber"/>
+          <include name="TC_02_PaginationByPageNumber"/>
+          <include name="TC_01_InputToColumnByName"/>
         </methods>
-      </class> <!-- com.wordpress.login.Login_05_Dynamic_Locator -->
+      </class> <!-- com.jquery.datatable.JQuery_01_DataTable -->
     </classes>
-  </test> <!-- Default test(failed) -->
-</suite> <!-- Failed suite [Default suite] -->
+  </test> <!-- Run on Firefox(failed) -->
+</suite> <!-- Failed suite [Jquery] -->
