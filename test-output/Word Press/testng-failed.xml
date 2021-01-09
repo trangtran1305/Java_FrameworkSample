@@ -1,35 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite thread-count="2" name="Failed suite [Word Press]" parallel="tests">
-  <parameter name="browser" value="chrome"/>
-  <test name="Run on Chrome(failed)" parallel="tests">
-    <parameter name="browser" value="chrome"/>
-    <classes>
-      <class name="com.wordpress.login.Login_05_Dynamic_Locator">
-        <methods>
-          <include name="TC_02_NavigateToPage"/>
-          <include name="TC_01_Login"/>
-          <include name="afterClass"/>
-          <include name="afterClass"/>
-          <include name="beforeClass"/>
-          <include name="beforeClass"/>
-        </methods>
-      </class> <!-- com.wordpress.login.Login_05_Dynamic_Locator -->
-    </classes>
-  </test> <!-- Run on Chrome(failed) -->
-  <test name="Run on Firefox(failed)" parallel="tests">
+<suite name="Failed suite [Word Press]">
+  <parameter name="browser" value="firefox"/>
+  <listeners>
+    <listener class-name="commons.MethodListener"/>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+    <listener class-name="reportConfig.ExtentReportListener"/>
+  </listeners>
+  <test name="Run on Firefox(failed)">
     <parameter name="browser" value="firefox"/>
     <classes>
-      <class name="com.wordpress.login.Login_05_Dynamic_Locator">
+      <class name="com.sortdata.demoSortData">
         <methods>
-          <include name="TC_02_NavigateToPage"/>
-          <include name="TC_01_Login"/>
-          <include name="afterClass"/>
-          <include name="afterClass"/>
-          <include name="beforeClass"/>
+          <include name="Test_01_Sort_Ascending_String"/>
           <include name="beforeClass"/>
         </methods>
-      </class> <!-- com.wordpress.login.Login_05_Dynamic_Locator -->
+      </class> <!-- com.sortdata.demoSortData -->
     </classes>
   </test> <!-- Run on Firefox(failed) -->
 </suite> <!-- Failed suite [Word Press] -->

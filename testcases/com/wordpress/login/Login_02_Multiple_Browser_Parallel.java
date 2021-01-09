@@ -1,6 +1,7 @@
 package com.wordpress.login;
 
 import java.util.Random;
+
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 import org.testng.annotations.AfterClass;
@@ -10,10 +11,11 @@ import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
 import commons.AbstractTest;
-import pageObjects.wordpress.DashboardPageObject;
-import pageObjects.wordpress.LoginPageObject;
-import pageObjects.wordpress.PageGeneratorManager;
+import pageObjects.wordpress.admin.DashboardPageObject;
+import pageObjects.wordpress.admin.LoginPageObject;
+import pageObjects.wordpress.admin.PageGeneratorManager;
 
+@Test
 public class Login_02_Multiple_Browser_Parallel extends AbstractTest {
 	WebDriver driver;
 	LoginPageObject loginPage;
@@ -24,9 +26,8 @@ public class Login_02_Multiple_Browser_Parallel extends AbstractTest {
 	@Parameters("browser")
 	@BeforeClass
 	public void beforeClass(String Value) {
-		//lấy thông tin browser trong abstract test 
-		driver=getBrowserDriver(Value,"https://automationfc.wordpress.com/wp-admin/");
-		loginPage = PageGeneratorManager.getLoginPage(driver);
+		driver= getBrowserDriver(Value,"https://automationfc.wordpress.com/wp-admin/");
+		loginPage = PageGeneratorManager.getLoginAdminPage(driver);
 		loginPageUrl = loginPage.getLoginPageUrl();
 	}
 
@@ -35,7 +36,6 @@ public class Login_02_Multiple_Browser_Parallel extends AbstractTest {
 		loginPage.openLoginPage(loginPageUrl);
 	}
 
-	@Test
 	public void Validate_01_EmptyEmail() {
 		loginPage.inputToEmailTextBox("");
 		loginPage.clickToContinueOrLoginButton();
@@ -44,7 +44,6 @@ public class Login_02_Multiple_Browser_Parallel extends AbstractTest {
 
 	}
 
-	@Test
 	public void Validate_02_InvalidEmail() {
 
 		loginPage.inputToEmailTextBox("123@123.123");
@@ -53,7 +52,6 @@ public class Login_02_Multiple_Browser_Parallel extends AbstractTest {
 				"Please log in using your WordPress.com username instead of your email address.");
 	}
 
-	@Test
 	public void Validate_03_EmailNotExist() {
 
 		loginPage.inputToEmailTextBox("automation" + random() + "@gmail.com");
@@ -63,7 +61,6 @@ public class Login_02_Multiple_Browser_Parallel extends AbstractTest {
 
 	}
 
-	@Test
 	public void Validate_04_EmptyPassWord() {
 
 		loginPage.inputToEmailTextBox("automationeditor");
@@ -73,7 +70,6 @@ public class Login_02_Multiple_Browser_Parallel extends AbstractTest {
 		Assert.assertEquals(loginPage.getErrorMessage(), "Don't forget to enter your password.");
 	}
 
-	@Test
 	public void Validate_05_PasswordLessThan6Chars() {
 		loginPage.inputToEmailTextBox("automationeditor");
 		loginPage.clickToContinueOrLoginButton();
@@ -82,7 +78,6 @@ public class Login_02_Multiple_Browser_Parallel extends AbstractTest {
 		Assert.assertEquals(loginPage.getErrorMessage(), "Oops, that's not the right password. Please try again!");
 	}
 
-	@Test
 	public void Validate_06_ValidPassword() {
 		loginPage.inputToEmailTextBox("automationeditor");
 		loginPage.clickToContinueOrLoginButton();

@@ -3,15 +3,12 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.jquery.datatable.JQuery_01_DataTable">
+      <class name="com.nopcommerce.register.Register_Json_Data_Test">
         <methods>
-          <include name="TC_03_CheckPageisSelected"/>
-          <include name="TC_04_ClickEditOrDeleteByCountryName"/>
-          <include name="TC_02_SendkeyToDynamicTextboxByRowNumber"/>
-          <include name="TC_01_InputToColumnByName"/>
-          <include name="TC_05_GetTotalByCountryName"/>
+          <include name="TC_01_Register"/>
+          <include name="beforeClass"/>
         </methods>
-      </class> <!-- com.jquery.datatable.JQuery_01_DataTable -->
+      </class> <!-- com.nopcommerce.register.Register_Json_Data_Test -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

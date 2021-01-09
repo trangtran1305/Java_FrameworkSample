@@ -10,12 +10,12 @@ import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
 import commons.AbstractTest;
-import pageObjects.wordpress.DashboardPageObject;
-import pageObjects.wordpress.LoginPageObject;
-import pageObjects.wordpress.MediaPageObject;
-import pageObjects.wordpress.PageGeneratorManager;
-import pageObjects.wordpress.PagesPageObject;
-import pageObjects.wordpress.PostPageObject;
+import pageObjects.wordpress.admin.DashboardPageObject;
+import pageObjects.wordpress.admin.LoginPageObject;
+import pageObjects.wordpress.admin.MediaPageObject;
+import pageObjects.wordpress.admin.PageGeneratorManager;
+import pageObjects.wordpress.admin.PagesPageObject;
+import pageObjects.wordpress.admin.PostPageObject;
 
 public class Login_04_WebDriver_Life_Circle extends AbstractTest {
 	WebDriver driver;
@@ -32,7 +32,7 @@ public class Login_04_WebDriver_Life_Circle extends AbstractTest {
 	public void beforeClass(String Value) {
 		//lấy thông tin browser trong abstract test 
 		driver=getBrowserDriver(Value,"https://automationfc.wordpress.com/wp-admin/");
-		loginPage = PageGeneratorManager.getLoginPage(driver);
+		loginPage = PageGeneratorManager.getLoginAdminPage(driver);
 		
 	}
 

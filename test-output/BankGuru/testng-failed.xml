@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [BankGuru]">
+  <parameter name="browser" value="chrome"/>
+  <test name="Run on Chrome(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.bankguru.login.Login_03_Dynamic_Page_Element">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="TC_03_NewCustomer"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- com.bankguru.login.Login_03_Dynamic_Page_Element -->
+    </classes>
+  </test> <!-- Run on Chrome(failed) -->
+</suite> <!-- Failed suite [BankGuru] -->

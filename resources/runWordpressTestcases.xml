@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<suite name="Word Press" parallel="tests" thread-count="2">
+<suite name="Word Press" parallel="false">
+	<listeners>
+		<listener class-name="commons.MethodListener" />
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+		<listener class-name="reportConfig.ExtentReportListener" />
+		
+	</listeners>
 	<test name="Run on Firefox">
 		<parameter name="browser" value="firefox" />
 		<classes>
-			<class name="com.wordpress.login.Login_05_Dynamic_Locator" />
+			<class name="com.sortdata.demoSortData" />
 		</classes>
 	</test>
 	
-	<test name="Run on Chrome">
-	<parameter name="browser" value="chrome"/>
-		<classes>
-			<class name="com.wordpress.login.Login_05_Dynamic_Locator" />
-		</classes>
-	</test>
 </suite>

@@ -1,0 +1,500 @@
+2020-08-25 10:31:10,909 INFO  com.wordpress.login.Login_07_Element_Undisplayed - Pre-condition-STEP 01: Open Login Page
+2020-08-25 10:31:10,915 INFO  com.wordpress.login.Login_07_Element_Undisplayed - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-08-25 10:31:11,163 INFO  com.wordpress.login.Login_07_Element_Undisplayed - Pre-condition-STEP 03: Click to 'Continue' button
+2020-08-25 10:31:11,344 INFO  com.wordpress.login.Login_07_Element_Undisplayed - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-08-25 10:31:12,065 INFO  com.wordpress.login.Login_07_Element_Undisplayed - Pre-condition-STEP 05: Click to 'Login' button
+2020-08-25 10:31:12,187 INFO  com.wordpress.login.Login_07_Element_Undisplayed - New_Customer
+2020-08-25 10:37:31,862 INFO  com.wordpress.login.Login_07_Element_Undisplayed - Pre-condition-STEP 01: Open Login Page
+2020-08-25 10:37:31,870 INFO  com.wordpress.login.Login_07_Element_Undisplayed - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-08-25 10:37:32,091 INFO  com.wordpress.login.Login_07_Element_Undisplayed - Pre-condition-STEP 03: Click to 'Continue' button
+2020-08-25 10:37:32,269 INFO  com.wordpress.login.Login_07_Element_Undisplayed - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-08-25 10:37:32,950 INFO  com.wordpress.login.Login_07_Element_Undisplayed - Pre-condition-STEP 05: Click to 'Login' button
+2020-08-25 10:37:33,056 INFO  com.wordpress.login.Login_07_Element_Undisplayed - New_Customer
+2020-08-25 10:40:20,076 INFO  com.wordpress.login.Login_07_Element_Undisplayed - Pre-condition-STEP 01: Open Login Page
+2020-08-25 10:40:20,083 INFO  com.wordpress.login.Login_07_Element_Undisplayed - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-08-25 10:40:20,363 INFO  com.wordpress.login.Login_07_Element_Undisplayed - Pre-condition-STEP 03: Click to 'Continue' button
+2020-08-25 10:40:20,534 INFO  com.wordpress.login.Login_07_Element_Undisplayed - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-08-25 10:40:21,275 INFO  com.wordpress.login.Login_07_Element_Undisplayed - Pre-condition-STEP 05: Click to 'Login' button
+2020-08-25 10:40:21,404 INFO  com.wordpress.login.Login_07_Element_Undisplayed - New_Customer
+2020-08-25 10:40:38,332 INFO  com.wordpress.login.Login_07_Element_Undisplayed - Pre-condition-STEP 01: Open Login Page
+2020-08-25 10:40:38,332 INFO  com.wordpress.login.Login_07_Element_Undisplayed - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-08-25 10:40:38,848 INFO  com.wordpress.login.Login_07_Element_Undisplayed - Pre-condition-STEP 03: Click to 'Continue' button
+2020-08-25 10:40:39,082 INFO  com.wordpress.login.Login_07_Element_Undisplayed - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-08-25 10:40:39,918 INFO  com.wordpress.login.Login_07_Element_Undisplayed - Pre-condition-STEP 05: Click to 'Login' button
+2020-08-25 10:40:40,087 INFO  com.wordpress.login.Login_07_Element_Undisplayed - New_Customer
+2020-08-25 11:05:02,579 INFO  com.wordpress.login.Login_07_Element_Undisplayed - Pre-condition-STEP 01: Open Login Page
+2020-08-25 11:05:02,599 INFO  com.wordpress.login.Login_07_Element_Undisplayed - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-08-25 11:05:02,883 INFO  com.wordpress.login.Login_07_Element_Undisplayed - Pre-condition-STEP 03: Click to 'Continue' button
+2020-08-25 11:05:03,059 INFO  com.wordpress.login.Login_07_Element_Undisplayed - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-08-25 11:05:03,776 INFO  com.wordpress.login.Login_07_Element_Undisplayed - Pre-condition-STEP 05: Click to 'Login' button
+2020-08-25 11:05:03,902 INFO  com.wordpress.login.Login_07_Element_Undisplayed - New_Customer
+2020-08-25 11:05:21,886 INFO  com.wordpress.login.Login_07_Element_Undisplayed - Pre-condition-STEP 01: Open Login Page
+2020-08-25 11:05:21,886 INFO  com.wordpress.login.Login_07_Element_Undisplayed - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-08-25 11:05:22,257 INFO  com.wordpress.login.Login_07_Element_Undisplayed - Pre-condition-STEP 03: Click to 'Continue' button
+2020-08-25 11:05:22,502 INFO  com.wordpress.login.Login_07_Element_Undisplayed - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-08-25 11:05:23,366 INFO  com.wordpress.login.Login_07_Element_Undisplayed - Pre-condition-STEP 05: Click to 'Login' button
+2020-08-25 11:05:23,532 INFO  com.wordpress.login.Login_07_Element_Undisplayed - New_Customer
+2020-08-25 14:35:51,778 INFO  com.wordpress.login.Login_07_Element_Undisplayed - Pre-condition-STEP 01: Open Login Page
+2020-08-25 14:35:51,834 INFO  com.wordpress.login.Login_07_Element_Undisplayed - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-08-25 14:35:52,157 INFO  com.wordpress.login.Login_07_Element_Undisplayed - Pre-condition-STEP 03: Click to 'Continue' button
+2020-08-25 14:35:52,288 INFO  com.wordpress.login.Login_07_Element_Undisplayed - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-08-25 14:35:53,496 INFO  com.wordpress.login.Login_07_Element_Undisplayed - Pre-condition-STEP 05: Click to 'Login' button
+2020-08-25 14:35:53,637 INFO  com.wordpress.login.Login_07_Element_Undisplayed - New_Customer
+2020-08-25 14:36:13,125 INFO  com.wordpress.login.Login_07_Element_Undisplayed - Pre-condition-STEP 01: Open Login Page
+2020-08-25 14:36:13,125 INFO  com.wordpress.login.Login_07_Element_Undisplayed - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-08-25 14:36:13,530 INFO  com.wordpress.login.Login_07_Element_Undisplayed - Pre-condition-STEP 03: Click to 'Continue' button
+2020-08-25 14:36:13,751 INFO  com.wordpress.login.Login_07_Element_Undisplayed - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-08-25 14:36:14,601 INFO  com.wordpress.login.Login_07_Element_Undisplayed - Pre-condition-STEP 05: Click to 'Login' button
+2020-08-25 14:36:14,877 INFO  com.wordpress.login.Login_07_Element_Undisplayed - New_Customer
+2020-08-26 21:35:15,488 INFO  com.wordpress.login.Login_07_Element_Undisplayed - Pre-condition-STEP 01: Open Login Page
+2020-08-26 21:35:15,557 INFO  com.wordpress.login.Login_07_Element_Undisplayed - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-08-26 21:35:15,784 INFO  com.wordpress.login.Login_07_Element_Undisplayed - Pre-condition-STEP 03: Click to 'Continue' button
+2020-08-26 21:35:15,922 INFO  com.wordpress.login.Login_07_Element_Undisplayed - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-08-26 21:35:17,133 INFO  com.wordpress.login.Login_07_Element_Undisplayed - Pre-condition-STEP 05: Click to 'Login' button
+2020-08-26 21:35:17,253 INFO  com.wordpress.login.Login_07_Element_Undisplayed - New_Customer
+2020-08-26 21:35:37,381 INFO  com.wordpress.login.Login_07_Element_Undisplayed - Pre-condition-STEP 01: Open Login Page
+2020-08-26 21:35:37,382 INFO  com.wordpress.login.Login_07_Element_Undisplayed - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-08-26 21:35:37,835 INFO  com.wordpress.login.Login_07_Element_Undisplayed - Pre-condition-STEP 03: Click to 'Continue' button
+2020-08-26 21:35:38,173 INFO  com.wordpress.login.Login_07_Element_Undisplayed - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-08-26 21:35:39,010 INFO  com.wordpress.login.Login_07_Element_Undisplayed - Pre-condition-STEP 05: Click to 'Login' button
+2020-08-26 21:35:39,167 INFO  com.wordpress.login.Login_07_Element_Undisplayed - New_Customer
+2020-09-02 15:50:03,477 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-02 15:50:03,484 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-02 15:50:03,666 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-02 15:50:03,774 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-02 15:50:04,473 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-02 15:50:04,629 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-02 15:50:05,776 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-03 17:46:37,291 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-03 17:46:37,831 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-03 17:46:38,091 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-03 17:46:38,358 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-03 17:46:39,102 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-03 17:47:37,508 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-03 17:47:38,729 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-04 20:55:44,392 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-04 20:55:44,464 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-04 20:55:44,652 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-04 20:55:44,760 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-04 20:55:46,982 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-04 20:56:25,501 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-04 20:56:27,211 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-04 21:07:22,156 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-04 21:07:22,164 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-04 21:07:22,381 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-04 21:07:22,501 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-04 21:07:23,170 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-04 21:07:47,452 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-04 21:07:48,542 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-04 21:10:12,694 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-04 21:10:12,701 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-04 21:10:12,876 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-04 21:10:13,002 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-04 21:10:13,645 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-04 21:10:24,754 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-04 21:10:25,822 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-04 21:15:24,912 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-04 21:15:24,919 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-04 21:26:10,954 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-04 21:26:10,962 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-04 21:26:11,132 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-04 21:26:11,256 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-04 21:26:11,899 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-04 21:26:58,708 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-04 21:27:00,291 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-04 21:27:52,805 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-04 21:27:52,814 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-04 21:27:53,031 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-04 21:27:53,132 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-04 21:27:54,314 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-04 21:28:57,814 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-04 21:28:59,033 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-04 21:33:31,550 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-04 21:33:31,557 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-04 21:35:51,961 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-04 21:35:51,968 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-04 21:36:46,338 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-04 21:36:46,345 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-04 21:36:46,560 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-04 21:36:46,682 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-04 21:36:47,348 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-04 21:38:11,848 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-04 21:38:13,122 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-04 21:40:31,651 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-04 21:40:31,659 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-04 21:40:31,837 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-04 21:40:31,952 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-04 21:40:32,607 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-04 21:41:16,448 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-04 21:41:17,532 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-04 21:42:12,456 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-04 21:42:12,463 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-04 21:42:12,647 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-04 21:42:12,760 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-04 21:42:13,420 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-04 21:42:53,451 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-04 21:42:54,583 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-04 22:00:18,797 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-04 22:00:18,806 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-04 22:00:19,028 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-04 22:00:19,159 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-04 22:00:19,833 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-04 22:01:02,047 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-04 22:01:03,084 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-04 22:03:19,598 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-04 22:03:19,605 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-04 22:03:19,781 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-04 22:03:19,890 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-04 22:03:20,539 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-04 22:04:16,292 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-04 22:04:17,357 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-04 22:14:58,679 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-04 22:14:58,688 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-04 22:14:58,895 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-04 22:14:59,025 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-04 22:14:59,702 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-04 22:15:40,570 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-04 22:15:41,711 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-04 22:20:39,814 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-04 22:20:39,823 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-04 22:20:39,999 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-04 22:20:40,111 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-04 22:20:40,765 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-04 22:21:22,443 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-04 22:21:23,472 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-04 22:23:27,541 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-04 22:23:27,549 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-04 22:23:27,783 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-04 22:23:27,902 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-04 22:23:28,562 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-04 22:24:54,404 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-04 22:24:55,574 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-04 22:25:20,060 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-04 22:25:20,069 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-04 22:25:20,273 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-04 22:25:20,404 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-04 22:25:21,081 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-04 22:26:04,148 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-04 22:26:05,182 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-04 22:27:14,144 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-04 22:27:14,153 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-04 22:27:14,330 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-04 22:27:14,434 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-04 22:27:15,097 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-04 22:27:55,521 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-04 22:27:57,019 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-04 22:28:38,587 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-04 22:28:38,597 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-04 22:28:38,771 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-04 22:28:38,883 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-04 22:28:39,536 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-04 22:29:18,794 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-04 22:29:19,937 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-04 22:31:30,116 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-04 22:31:30,123 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-04 22:31:30,338 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-04 22:31:30,478 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-04 22:31:31,155 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-04 22:32:10,347 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-04 22:32:11,925 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-05 16:17:45,972 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-05 16:17:46,026 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-05 16:17:46,271 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-05 16:17:46,401 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-05 16:17:48,118 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-05 16:18:30,031 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-05 16:18:31,181 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-05 16:23:19,242 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-05 16:23:19,250 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-05 16:23:19,428 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-05 16:23:19,534 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-05 16:23:20,188 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-05 16:23:59,435 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-05 16:24:00,970 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-05 16:24:35,767 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-05 16:24:35,776 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-05 16:24:35,952 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-05 16:24:36,062 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-05 16:24:36,721 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-05 16:25:16,354 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-05 16:25:17,425 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-05 16:28:40,693 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-05 16:28:40,704 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-05 16:28:40,913 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-05 16:28:41,036 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-05 16:28:41,714 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-05 16:29:20,678 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-05 16:29:22,412 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-05 16:33:06,638 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-05 16:33:06,645 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-05 16:33:06,849 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-05 16:33:07,014 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-05 16:33:07,690 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-05 16:33:22,249 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-05 16:33:23,345 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-05 16:34:26,709 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-05 16:34:26,715 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-05 16:34:26,924 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-05 16:34:27,057 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-05 16:34:27,738 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-05 16:34:40,019 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-05 16:34:41,118 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-05 16:37:02,494 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-05 16:37:02,501 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-05 16:37:02,713 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-05 16:37:02,837 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-05 16:37:04,014 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-05 16:37:22,713 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-05 16:37:23,791 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-05 16:40:49,392 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-05 16:40:49,400 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-05 16:40:49,604 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-05 16:40:49,738 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-05 16:40:50,420 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-05 16:41:10,052 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-05 16:41:11,118 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-06 10:20:21,143 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-06 10:20:21,197 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-06 10:20:21,383 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-06 10:20:21,497 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-06 10:20:22,206 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-06 10:20:44,081 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-06 10:20:45,286 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-06 14:05:55,653 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-06 14:05:55,702 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-06 14:05:55,895 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-06 14:05:56,006 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-06 14:05:57,696 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-06 14:07:50,223 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-06 14:07:51,407 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-06 14:09:56,458 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-06 14:09:56,466 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-06 14:09:56,694 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-06 14:09:56,845 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-06 14:09:57,542 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-06 14:10:53,146 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-06 14:10:54,319 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-06 14:13:26,850 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-06 14:13:26,858 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-06 14:13:27,128 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-06 14:13:27,243 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-06 14:13:27,920 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-06 14:18:04,717 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-06 14:18:04,725 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-06 14:18:04,910 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-06 14:18:05,023 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-06 14:18:05,682 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-06 14:27:39,082 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-06 14:27:39,089 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-06 14:27:39,269 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-06 14:27:39,385 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-06 14:27:40,053 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-06 14:31:30,490 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-06 14:31:30,497 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-06 14:31:30,719 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-06 14:31:30,856 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-06 14:31:31,529 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-06 14:33:48,139 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-06 14:33:48,148 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-06 14:33:48,334 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-06 14:33:48,453 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-06 14:33:49,107 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-07 06:07:39,934 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-07 06:07:40,640 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-07 06:07:40,876 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-07 06:07:41,002 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-07 06:07:42,740 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-07 06:08:06,145 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-07 06:08:07,402 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-07 06:11:12,963 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-07 06:11:12,971 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-07 06:11:13,232 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-07 06:11:13,363 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-07 06:11:14,039 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-07 06:11:37,956 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-07 06:11:39,081 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-07 06:17:30,031 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-07 06:17:30,039 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-07 06:17:30,259 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-07 06:17:30,389 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-07 06:17:31,076 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-07 06:17:53,406 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-07 06:17:54,491 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-07 06:21:00,051 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-07 06:21:00,059 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-07 06:21:00,277 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-07 06:21:00,401 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-07 06:21:01,073 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-07 06:21:25,411 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-07 06:21:26,512 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-07 06:24:37,833 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-07 06:24:37,842 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-07 06:24:38,033 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-07 06:24:38,142 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-07 06:24:38,805 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-07 06:24:48,919 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-07 06:24:50,075 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-07 06:27:16,423 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-07 06:27:16,430 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-07 06:27:16,619 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-07 06:27:16,728 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-07 06:27:17,383 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-07 06:27:41,178 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-07 06:27:42,290 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-07 06:36:13,128 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-07 06:36:13,135 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-07 06:36:13,320 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-07 06:36:13,432 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-07 06:36:14,086 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-07 06:36:23,008 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-07 06:36:24,182 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-07 06:38:28,935 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-07 06:38:28,942 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-07 06:38:29,147 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-07 06:38:29,270 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-07 06:38:29,957 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-07 06:39:29,795 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-07 06:39:30,909 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-07 06:45:04,320 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-07 06:45:04,327 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-07 06:45:04,551 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-07 06:45:04,679 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-07 06:45:05,361 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-07 06:45:24,827 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-07 06:45:25,927 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-07 06:46:51,866 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-07 06:46:51,875 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-07 06:46:52,065 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-07 06:46:52,174 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-07 06:46:52,849 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-07 06:47:19,408 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-07 06:47:20,509 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-07 07:17:44,193 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-07 07:17:44,201 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-07 07:17:44,388 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-07 07:17:44,501 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-07 07:17:45,168 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-07 07:18:41,756 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-07 07:18:42,846 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-07 07:20:57,635 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-07 07:20:57,642 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-07 07:20:57,821 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-07 07:20:57,938 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-07 07:20:59,104 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-07 07:22:00,394 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-07 07:22:01,510 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-07 22:17:26,180 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-07 22:17:26,227 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-07 22:17:26,415 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-07 22:17:26,531 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-07 22:17:27,223 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-07 22:19:14,226 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-07 22:19:15,475 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-08 08:47:05,518 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-08 08:47:05,525 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-08 08:47:05,735 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-08 08:47:05,854 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-08 08:47:07,042 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-08 08:58:12,537 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-08 08:58:12,546 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-08 08:58:12,736 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-08 08:58:12,846 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-08 08:58:13,500 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-08 09:17:48,642 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-08 09:17:48,651 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-08 09:17:48,849 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-08 09:17:48,958 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-08 09:17:49,616 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-08 09:18:14,943 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-08 09:18:16,121 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-08 09:29:57,222 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-08 09:29:57,230 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-08 09:29:57,436 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-08 09:29:57,562 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-08 09:29:58,236 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-08 09:30:53,175 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-08 09:30:54,253 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-08 09:41:04,296 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-08 09:41:04,302 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-08 09:41:04,522 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-08 09:41:04,642 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-08 09:41:05,314 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-08 09:42:00,890 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-08 09:42:01,991 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-08 09:45:57,292 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-08 09:45:57,301 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-08 09:45:57,487 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-08 09:45:57,598 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-08 09:45:58,296 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-08 09:46:54,974 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-08 09:46:56,166 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-08 09:54:30,764 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-08 09:54:30,772 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-08 09:54:30,943 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-08 09:54:31,052 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-08 09:54:31,700 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-08 09:54:58,187 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-08 09:54:59,267 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-09 07:22:01,866 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-09 07:22:01,884 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-09 07:22:02,118 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-09 07:22:02,231 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-09 07:22:02,929 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-09 07:22:30,346 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-09 07:22:31,587 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-09 07:23:20,925 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-09 07:23:20,932 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-09 07:23:21,169 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-09 07:23:21,276 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-09 07:23:21,976 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-09 07:24:21,668 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-09 07:24:22,793 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-09 07:26:06,440 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-09 07:26:06,446 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-09 07:26:06,711 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-09 07:26:06,835 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-09 07:26:07,557 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-09 07:27:13,102 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-09 07:27:14,409 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-09 07:32:56,623 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-09 07:32:56,631 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-09 07:32:56,865 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-09 07:32:56,967 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-09 07:32:57,669 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-09 07:34:11,375 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-09 07:34:12,550 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-09 07:35:41,376 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-09 07:35:41,382 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-09 07:35:41,646 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-09 07:35:41,764 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-09 07:35:42,488 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-09 07:36:26,151 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-09 07:36:27,294 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-09 08:30:49,340 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-09 08:30:49,347 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-09 08:30:49,575 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-09 08:30:49,690 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-09 08:30:50,428 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-09 08:31:44,588 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-09 08:31:45,824 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-09 08:34:34,697 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-09 08:34:34,704 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-09 08:34:34,972 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-09 08:34:35,090 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-09 08:34:35,811 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-09 08:35:30,280 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-09 08:35:31,376 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-10 22:36:18,592 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-10 22:36:18,603 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-10 22:36:18,832 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-10 22:36:19,125 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-10 22:36:20,315 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-10 22:36:26,937 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-10 22:36:28,674 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------
+2020-09-10 22:37:39,499 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 01: Open Login Page
+2020-09-10 22:37:39,505 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 02: Input to 'Email' textbox
+2020-09-10 22:37:39,739 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 03: Click to 'Continue' button
+2020-09-10 22:37:40,038 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 04: Input to 'Password' textbox
+2020-09-10 22:37:40,689 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - Pre-condition-STEP 05: Click to 'Login' button
+2020-09-10 22:37:46,393 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - OS name = windows 10
+2020-09-10 22:37:47,655 INFO  com.wordpress.posts.Admin_01_Create_View_Edit_Delete - ---------- QUIT BROWSER SUCCESS ----------

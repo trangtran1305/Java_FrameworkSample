@@ -1,53 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="5" passed="5">
+<testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Jquery" duration-ms="181938" started-at="2020-08-20T15:00:15Z" finished-at="2020-08-20T15:03:17Z">
+  <suite name="Jquery" duration-ms="68013" started-at="2020-10-21T04:33:35Z" finished-at="2020-10-21T04:34:43Z">
     <groups>
     </groups>
-    <test name="Run on Firefox" duration-ms="181938" started-at="2020-08-20T15:00:15Z" finished-at="2020-08-20T15:03:17Z">
-      <class name="com.jquery.datatable.JQuery_01_DataTable">
-        <test-method status="PASS" signature="beforeClass(java.lang.String, java.lang.String)[pri:0, instance:com.jquery.datatable.JQuery_01_DataTable@6cc4c815]" name="beforeClass" is-config="true" duration-ms="95439" started-at="2020-08-20T22:00:15Z" finished-at="2020-08-20T22:01:51Z">
+    <test name="Run on Firefox" duration-ms="68013" started-at="2020-10-21T04:33:35Z" finished-at="2020-10-21T04:34:43Z">
+      <class name="com.wordpress.login.Login_06_Upload_Multiple_Files">
+        <test-method status="PASS" signature="beforeClass(java.lang.String)[pri:0, instance:com.wordpress.login.Login_06_Upload_Multiple_Files@7d907bac]" name="beforeClass" is-config="true" duration-ms="18466" started-at="2020-10-21T11:33:35Z" finished-at="2020-10-21T11:33:54Z">
           <params>
             <param index="0">
               <value>
                 <![CDATA[firefox]]>
               </value>
             </param>
-            <param index="1">
-              <value>
-                <![CDATA[https://www.jqueryscript.net/demo/CRUD-Data-Grid-Plugin-jQuery-Quickgrid/]]>
-              </value>
-            </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="TC_01_InputToColumnByName()[pri:0, instance:com.jquery.datatable.JQuery_01_DataTable@6cc4c815]" name="TC_01_InputToColumnByName" duration-ms="4807" started-at="2020-08-20T22:01:51Z" finished-at="2020-08-20T22:01:55Z">
+        <test-method status="PASS" signature="TC_01_Upload_Media()[pri:0, instance:com.wordpress.login.Login_06_Upload_Multiple_Files@7d907bac]" name="TC_01_Upload_Media" duration-ms="49527" started-at="2020-10-21T11:33:54Z" finished-at="2020-10-21T11:34:43Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- TC_01_InputToColumnByName -->
-        <test-method status="PASS" signature="TC_02_PaginationByPageNumber()[pri:0, instance:com.jquery.datatable.JQuery_01_DataTable@6cc4c815]" name="TC_02_PaginationByPageNumber" duration-ms="209" started-at="2020-08-20T22:01:55Z" finished-at="2020-08-20T22:01:56Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TC_02_PaginationByPageNumber -->
-        <test-method status="PASS" signature="TC_03_ClickDeleteOrEditByCountryName()[pri:0, instance:com.jquery.datatable.JQuery_01_DataTable@6cc4c815]" name="TC_03_ClickDeleteOrEditByCountryName" duration-ms="42478" started-at="2020-08-20T22:01:56Z" finished-at="2020-08-20T22:02:38Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TC_03_ClickDeleteOrEditByCountryName -->
-        <test-method status="PASS" signature="TC_04_GetTotalByCountryName()[pri:0, instance:com.jquery.datatable.JQuery_01_DataTable@6cc4c815]" name="TC_04_GetTotalByCountryName" duration-ms="34903" started-at="2020-08-20T22:02:38Z" finished-at="2020-08-20T22:03:13Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TC_04_GetTotalByCountryName -->
-        <test-method status="PASS" signature="TC_05_SendkeyToDynamicTextboxByRowNumber()[pri:0, instance:com.jquery.datatable.JQuery_01_DataTable@6cc4c815]" name="TC_05_SendkeyToDynamicTextboxByRowNumber" duration-ms="4069" started-at="2020-08-20T22:03:13Z" finished-at="2020-08-20T22:03:17Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TC_05_SendkeyToDynamicTextboxByRowNumber -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.jquery.datatable.JQuery_01_DataTable@6cc4c815]" name="afterClass" is-config="true" duration-ms="0" started-at="2020-08-20T22:03:17Z" finished-at="2020-08-20T22:03:17Z">
+        </test-method> <!-- TC_01_Upload_Media -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.wordpress.login.Login_06_Upload_Multiple_Files@7d907bac]" name="afterClass" is-config="true" duration-ms="0" started-at="2020-10-21T11:34:43Z" finished-at="2020-10-21T11:34:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
-      </class> <!-- com.jquery.datatable.JQuery_01_DataTable -->
+      </class> <!-- com.wordpress.login.Login_06_Upload_Multiple_Files -->
     </test> <!-- Run on Firefox -->
   </suite> <!-- Jquery -->
 </testng-results>

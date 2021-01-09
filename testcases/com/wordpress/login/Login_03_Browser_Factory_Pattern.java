@@ -13,9 +13,9 @@ import org.testng.annotations.Test;
 import browserFactory.DriverFactory;
 import browserFactory.DriverManager;
 import commons.AbstractTest;
-import pageObjects.wordpress.DashboardPageObject;
-import pageObjects.wordpress.LoginPageObject;
-import pageObjects.wordpress.PageGeneratorManager;
+import pageObjects.wordpress.admin.DashboardPageObject;
+import pageObjects.wordpress.admin.LoginPageObject;
+import pageObjects.wordpress.admin.PageGeneratorManager;
 
 public class Login_03_Browser_Factory_Pattern extends AbstractTest {
 	WebDriver driver;
@@ -32,7 +32,7 @@ public class Login_03_Browser_Factory_Pattern extends AbstractTest {
 		driverManager= DriverFactory.getDriverManager(Value);
 		driver=driverManager.getDriver();
 		
-		loginPage = PageGeneratorManager.getLoginPage(driver);
+		loginPage = PageGeneratorManager.getLoginAdminPage(driver);
 		loginPageUrl = loginPage.getLoginPageUrl();
 	}
 

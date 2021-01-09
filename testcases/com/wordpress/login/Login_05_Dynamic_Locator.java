@@ -11,12 +11,12 @@ import org.testng.annotations.Test;
 
 import commons.AbstractPage;
 import commons.AbstractTest;
-import pageObjects.wordpress.DashboardPageObject;
-import pageObjects.wordpress.LoginPageObject;
-import pageObjects.wordpress.MediaPageObject;
-import pageObjects.wordpress.PageGeneratorManager;
-import pageObjects.wordpress.PagesPageObject;
-import pageObjects.wordpress.PostPageObject;
+import pageObjects.wordpress.admin.DashboardPageObject;
+import pageObjects.wordpress.admin.LoginPageObject;
+import pageObjects.wordpress.admin.MediaPageObject;
+import pageObjects.wordpress.admin.PageGeneratorManager;
+import pageObjects.wordpress.admin.PagesPageObject;
+import pageObjects.wordpress.admin.PostPageObject;
 
 public class Login_05_Dynamic_Locator extends AbstractTest {
 	WebDriver driver;
@@ -34,7 +34,7 @@ public class Login_05_Dynamic_Locator extends AbstractTest {
 	public void beforeClass(String Value) {
 		//lấy thông tin browser trong abstract test 
 		driver=getBrowserDriver(Value,"https://automationfc.wordpress.com/wp-admin/");
-		loginPage = PageGeneratorManager.getLoginPage(driver);
+		loginPage = PageGeneratorManager.getLoginAdminPage(driver);
 		
 	}
 
@@ -49,19 +49,19 @@ public class Login_05_Dynamic_Locator extends AbstractTest {
 	@Test
 	public void TC_02_NavigateToPage() {
 		//DashBoard->Post
-		postPage=(PostPageObject) dashboardPage.clickToDynamicMenu(driver,"Posts");		
+		postPage=(PostPageObject) dashboardPage.openMenuPageByPageName(driver,"Posts");		
 		//Post->Pages		
-		pagesPage=(PagesPageObject) postPage.clickToDynamicMenu(driver,"Pages");
+		pagesPage=(PagesPageObject) postPage.openMenuPageByPageName(driver,"Pages");
 		//Pages->Media
-		mediaPage=(MediaPageObject) pagesPage.clickToDynamicMenu(driver,"Media");
+		mediaPage=(MediaPageObject) pagesPage.openMenuPageByPageName(driver,"Media");
 		//Media->Post
-		postPage= (PostPageObject) mediaPage.clickToDynamicMenu(driver,"Posts");
+		postPage= (PostPageObject) mediaPage.openMenuPageByPageName(driver,"Posts");
 		//Post->Media
-		mediaPage=(MediaPageObject) postPage.clickToDynamicMenu(driver,"Media");
+		mediaPage=(MediaPageObject) postPage.openMenuPageByPageName(driver,"Media");
 		
 		//nhiều page: không có kiểu trả về của hàm click
-		mediaPage.clickToDynamicMenu(driver,"Posts");
-		postPage= PageGeneratorManager.getPostPage(driver);
+		mediaPage.openMenuPageByPageName(driver,"Posts");
+		postPage= PageGeneratorManager.getPostAdminPage(driver);
 	}
 
 

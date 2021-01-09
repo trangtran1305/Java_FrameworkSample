@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Run on Firefox"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="9.501">
+  <properties />
+  
+  
+            <testcase name="TC_02_Element_Undisplayed_Without_In_DOM" time="5.041" classname="com.wordpress.login.Login_07_Element_Undisplayed" />
+                <testcase name="TC_01_Element_Undisplayed_But_In_DOM" time="4.460" classname="com.wordpress.login.Login_07_Element_Undisplayed" />
+      
+</testsuite>

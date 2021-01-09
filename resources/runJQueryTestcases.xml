@@ -4,7 +4,7 @@
 		<parameter name="browser" value="firefox" />
 		<parameter name="url" value="https://www.jqueryscript.net/demo/CRUD-Data-Grid-Plugin-jQuery-Quickgrid/" />
 		<classes>
-			<class name="com.jquery.datatable.JQuery_01_DataTable" />
+			<class name="com.wordpress.login.Login_06_Upload_Multiple_Files" />
 		</classes>
 	</test>
 	

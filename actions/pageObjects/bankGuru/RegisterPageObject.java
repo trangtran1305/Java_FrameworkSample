@@ -30,8 +30,9 @@ public class RegisterPageObject extends AbstractPage {
 		return getElementText(driver, RegisterPageUI.USERID_TEXT);
 	}
 
-	public void openLoginPage(String url) {
+	public LoginPageObject openLoginPage(String url) {
 		openUrl(driver, url);
+		return PageGeneratorManager.getLoginPage(driver);
 
 	}
 
